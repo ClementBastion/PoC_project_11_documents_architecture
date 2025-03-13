@@ -34,7 +34,7 @@ Ce repository contient la documentation d’architecture pour la **Preuve de Con
 
 
 ### 🔹 2. Reporting et Analyse
-- [`06-Reporting_PoC.md`](./06-Reporting_PoC.pdf)  
+- [`05-Reporting_PoC.md`](./06-Reporting_PoC.pdf)  
   → Synthèse des résultats de la PoC : **performances, conformité, apprentissages**.
 
 
