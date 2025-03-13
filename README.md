@@ -32,15 +32,11 @@ Ce repository contient la documentation d’architecture pour la **Preuve de Con
 - [`04-Données_de_référence_sur_les_spécialités_NHS.pdf`](./04-Données_de_référence_sur_les_spécialités_NHS.pdf)  
   → Liste les **spécialités médicales** pour la gestion des lits hospitaliers.
 
-- [`05-Exigences_PoC.pdf`](./05-Exigences_PoC.pdf)  
-  → Spécifie les **besoins techniques et fonctionnels** de la PoC.
 
 ### 🔹 2. Reporting et Analyse
-- [`06-Reporting_PoC.md`](./06-Reporting_PoC.md)  
+- [`06-Reporting_PoC.md`](./06-Reporting_PoC.pdf)  
   → Synthèse des résultats de la PoC : **performances, conformité, apprentissages**.
 
-- [`07-Feuille_de_route.md`](./07-Feuille_de_route.md)  
-  → Plan détaillant les **prochaines étapes** du projet après validation de la PoC.
 
 ---
 
@@ -48,5 +44,5 @@ Ce repository contient la documentation d’architecture pour la **Preuve de Con
 
 ### 📥 1. Cloner le Repository
 ```bash
-git clone https://github.com/votre-repo/architecture-medhead.git
-cd architecture-medhead
+git clone https://github.com/ClementBastion/PoC_project_11_documents_architecture.git
+cd PoC_project_11_documents_architecture
